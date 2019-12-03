@@ -1,0 +1,10 @@
+G = 300
+N = 8
+Algorithm used: Tabu search
+Tabu tenure: 3.0
+Max number of iterations: 20.0
+
+Solution found: 0 1 1 1 0 1 1 0 
+Weight = 252
+Value = 509
+Time = 0.367891 ms
