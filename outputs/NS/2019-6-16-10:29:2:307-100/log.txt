@@ -1,0 +1,9 @@
+G = 1150
+N = 100
+Algorithm used: Neighborhood search
+Max number of iterations: 130.0
+
+Solution found: 1 1 1 0 0 0 0 0 1 0 0 1 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 0 0 0 0 0 0 1 0 0 0 1 1 0 0 1 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 
+Weight = 1101
+Value = 2207
+Time = 1.700554 ms
