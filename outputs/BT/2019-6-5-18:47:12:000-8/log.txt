@@ -1,0 +1,8 @@
+G = 300
+N = 8
+Algorithm used: Backtracking
+
+Solution found: 1 1 1 0 0 1 1 1 
+Weight = 300
+Value = 610
+Time = 0.459842 ms
