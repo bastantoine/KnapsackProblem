@@ -1,0 +1,11 @@
+G = 300
+N = 8
+Algorithm used: Simulated annealing
+Cooling ratio: 0.85
+Initial temperature: 15000.0
+Temperature limit: 300.0
+
+Solution found: 1 1 1 0 1 0 1 0 
+Weight = 259
+Value = 510
+Time = 2.626751 ms
